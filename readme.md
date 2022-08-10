@@ -38,3 +38,11 @@ Hello world
 hello everyone
 good news everyone! 
 
+git -reset
+Сброс текущего HEAD в указанное состояние
+
+git -switch
+Переключение ветвей
+
+git -help
+Отображение справочной информации о Git
