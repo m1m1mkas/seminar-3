@@ -46,3 +46,5 @@ git -switch
 
 git -help
 Отображение справочной информации о Git
+
+end
