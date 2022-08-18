@@ -34,6 +34,8 @@ Git - это одна из реализаций распределённых с�
 
 Hello world
 Всем привет!
+hi amigo!!!
+
 
 hello everyone
 good news everyone! 
